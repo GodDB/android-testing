@@ -16,6 +16,7 @@
 package com.example.android.architecture.blueprints.todoapp.taskdetail
 
 import android.app.Application
+import android.util.Log
 import androidx.annotation.StringRes
 import androidx.lifecycle.*
 import com.example.android.architecture.blueprints.todoapp.Event
